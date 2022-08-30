@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi, there 🤘
+
+My name is Martin, I'm a Frontend Developer form Taiwan.<br>
+Currently working on [91APP](https://www.91app.com/), providing E-commerce solutions for well-known international brands like [Timberland](https://www.timberland.com.tw/), [Puma](https://tw.puma.com/) and [Philips](https://www.store-philips.tw/).
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChengYiLin&hide=jupyter%20notebook,html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **ChengYiLin/ChengYiLin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
