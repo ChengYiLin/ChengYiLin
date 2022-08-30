@@ -1,7 +1,7 @@
 ## Hi, there 🤘
 
 My name is Martin, I'm a Frontend Developer form Taiwan.<br>
-Currently working on [91APP](https://www.91app.com/), providing E-commerce solutions for well-known international brands like [Timberland](https://www.timberland.com.tw/), [Puma](https://tw.puma.com/) and [Philips](https://www.store-philips.tw/).
+Currently working on [91APP](https://www.91app.com/), providing E-commerce solutions for well-known international brands like [Timberland](https://www.timberland.com.tw/) and [Puma](https://tw.puma.com/).
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChengYiLin&hide=jupyter%20notebook,html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
